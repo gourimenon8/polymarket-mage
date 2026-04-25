@@ -11,7 +11,7 @@
 
 ## What It Does
 
-Prediction markets are real-time uncertainty quantification at scale — every price is a crowd-sourced probability estimate backed by real money. This pipeline treats them as a structured data source and surfaces signals that matter.
+Prediction markets are real-time uncertainty quantification at scale, where every price is a crowd-sourced probability estimate backed by real money. This pipeline treats them as a structured data source and surfaces signals that matter.
 
 | Stage | Block | Description |
 |---|---|---|
@@ -83,7 +83,7 @@ Opens at **http://localhost:6789**
 
 ### 4. Launch the dashboard
 ```bash
-streamlit run dashboard/app.py
+[streamlit run dashboard/app.py](https://polymarket-mage8.streamlit.app/)
 ```
 
 ---
@@ -108,11 +108,11 @@ polymarket_mage/
 
 ## Why Mage?
 
-Mage's block-based architecture made it easy to develop and iterate each transformation step independently. Each block is testable in isolation, failed steps don't require full re-runs, and new enrichment layers plug in without touching upstream logic — exactly the kind of modularity that makes production pipelines maintainable.
+Mage's block-based architecture made it easy to develop and iterate every transformation step independently. Each block is testable in isolation, failed steps don't require full re-runs, and new enrichment layers plug in without touching upstream logic, which is exactly the kind of modularity that makes production pipelines maintainable.
 
 ---
 
 ## Author
 
 **Gouri Menon** — Data Scientist | Associate II, Columbia University  
-[LinkedIn](https://www.linkedin.com/in/gouri-menon-646b17b1/))
+[LinkedIn](https://www.linkedin.com/in/gouri-menon-646b17b1/)
