@@ -115,4 +115,4 @@ Mage's block-based architecture made it easy to develop and iterate each transfo
 ## Author
 
 **Gouri Menon** — Data Scientist | Associate II, Columbia University  
-[LinkedIn](https://www.linkedin.com/in/gouri-menon-646b17b1/) · [GitHub](https://github.com/) · [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/gouri-menon-646b17b1/))
