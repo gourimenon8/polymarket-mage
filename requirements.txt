@@ -1,0 +1,7 @@
+mage-ai
+anthropic
+requests
+pandas
+numpy
+streamlit
+plotly
