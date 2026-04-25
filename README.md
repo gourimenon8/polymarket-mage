@@ -73,7 +73,6 @@ pip install -r requirements.txt
 ```bash
 mage start polymarket_pipeline
 ```
-Opens at **http://localhost:6789**
 
 ### 3. Create the pipeline in Mage UI
 1. Click **New Pipeline** → Standard (Batch)
