@@ -83,7 +83,7 @@ Opens at **http://localhost:6789**
 
 ### 4. Launch the dashboard
 ```bash
-[streamlit run dashboard/app.py](https://polymarket-mage8.streamlit.app/)
+https://polymarket-mage8.streamlit.app/
 ```
 
 ---
