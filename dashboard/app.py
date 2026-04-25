@@ -290,7 +290,7 @@ with tab2:
                     plot_bgcolor="rgba(0,0,0,0)",
                     showlegend=False,
                 )
-                st.plotly_chart(prob_bar, use_container_width=True)
+                st.plotly_chart(prob_bar, use_container_width=True, key=f"prob_bar_{row['id']}")
 
     # Anomaly breakdown chart
     st.divider()
